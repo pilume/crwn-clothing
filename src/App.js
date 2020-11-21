@@ -5,8 +5,8 @@ import Homepage from './homepage.componet'
 
 function App() {
   return (
-    <div className="App">
-      Hello World
+    <div>
+      <Homepage/>
     </div>
   );
 }
